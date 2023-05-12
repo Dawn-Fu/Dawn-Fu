@@ -29,7 +29,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Dawn-Fu/count.svg) visitor
 - 👯 from **Shanxi, China**
 - 🤔 I love **Reading, Running**
 - 📫 How to reach me: **815988633@qq.com**
-- ⚡ Fun fact: **Game, Anime,Movie**
+- ⚡ Fun fact: **Game, Anime, Movie**
 
 
 <h3>🛠 Tech Stack</h3>
