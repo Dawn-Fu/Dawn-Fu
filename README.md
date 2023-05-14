@@ -25,7 +25,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Dawn-Fu/count.svg) visitor
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🔭 I’m currently studying on **Tsinghua University** in Dalian, Liaoning, China
+- 🔭 I’m currently studying on **Dalian University of Technology** in Dalian, Liaoning, China
 - 👯 from **Shanxi, China**
 - 🤔 I love **Reading, Running**
 - 📫 How to reach me: **815988633@qq.com**
